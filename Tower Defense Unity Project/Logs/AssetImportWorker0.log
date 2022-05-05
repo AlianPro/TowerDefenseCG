@@ -1,0 +1,1210 @@
+Unity Editor version:    2021.3.1f1 (3b70a0754835)
+Branch:                  2021.3/staging
+Build type:              Release
+Batch mode:              YES
+System name:             Linux
+Distro version:          #42~20.04.1-Ubuntu SMP Tue Sep 28 20:41:07 UTC 2021
+Kernel version:          5.11.0-38-generic
+Architecture:            x86_64
+Available memory:        15851 MB
+Using pre-set license
+Pro License: YES
+
+(Unity:12674): Gdk-CRITICAL **: 23:26:17.190: gdk_window_get_cursor: assertion 'GDK_IS_WINDOW (window)' failed
+Desktop is 3520 x 1080 @ 60 Hz
+Initialize udev device monitor.
+
+COMMAND LINE ARGUMENTS:
+Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+/home/alianpro/Music/TowerDefenseCG/Tower Defense Unity Project
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+38115
+Successfully changed project path to: /home/alianpro/Music/TowerDefenseCG/Tower Defense Unity Project
+/home/alianpro/Music/TowerDefenseCG/Tower Defense Unity Project
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Refreshing native plugins compatible for Editor in 64.28 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.3.1f1 (3b70a0754835)
+[Subsystems] Discovering subsystems at path /home/alianpro/Unity-2021.3.1f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /home/alianpro/Music/TowerDefenseCG/Tower Defense Unity Project/Assets
+GLX Extensions: GLX_EXT_visual_info GLX_EXT_visual_rating GLX_EXT_import_context GLX_SGIX_fbconfig GLX_SGIX_pbuffer GLX_SGI_video_sync GLX_SGI_swap_control GLX_EXT_swap_control GLX_EXT_swap_control_tear GLX_EXT_texture_from_pixmap GLX_EXT_buffer_age GLX_ARB_create_context GLX_ARB_create_context_profile GLX_EXT_create_context_es_profile GLX_EXT_create_context_es2_profile GLX_ARB_create_context_no_error GLX_ARB_create_context_robustness GLX_NV_delay_before_swap GLX_EXT_stereo_tree GLX_ARB_context_flush_control GLX_NV_robustness_video_memory_purge GLX_NV_multigpu_context GLX_ARB_multisample GLX_NV_float_buffer GLX_ARB_fbconfig_float GLX_EXT_framebuffer_sRGB GLX_NV_copy_image GLX_ARB_get_proc_address 
+Renderer: GeForce GTX 1050/PCIe/SSE2
+Vendor:   NVIDIA Corporation
+Version:  4.5.0 NVIDIA 460.91.03
+GLES:     0
+ GL_AMD_multi_draw_indirect GL_AMD_seamless_cubemap_per_texture GL_AMD_vertex_shader_viewport_index GL_AMD_vertex_shader_layer GL_ARB_arrays_of_arrays GL_ARB_base_instance GL_ARB_bindless_texture GL_ARB_blend_func_extended GL_ARB_buffer_storage GL_ARB_clear_buffer_object GL_ARB_clear_texture GL_ARB_clip_control GL_ARB_color_buffer_float GL_ARB_compressed_texture_pixel_storage GL_ARB_conservative_depth GL_ARB_compute_shader GL_ARB_compute_variable_group_size GL_ARB_conditional_render_inverted GL_ARB_copy_buffer GL_ARB_copy_image GL_ARB_cull_distance GL_ARB_debug_output GL_ARB_depth_buffer_float GL_ARB_depth_clamp GL_ARB_depth_texture GL_ARB_derivative_control GL_ARB_direct_state_access GL_ARB_draw_buffers GL_ARB_draw_buffers_blend GL_ARB_draw_indirect GL_ARB_draw_elements_base_vertex GL_ARB_draw_instanced GL_ARB_enhanced_layouts GL_ARB_ES2_compatibility GL_ARB_ES3_compatibility GL_ARB_ES3_1_compatibility GL_ARB_ES3_2_compatibility GL_ARB_explicit_attrib_location GL_ARB_explicit_uniform_location GL_ARB_fragmen
+t_coord_conventions GL_ARB_fragment_layer_viewport GL_ARB_fragment_program GL_ARB_fragment_program_shadow GL_ARB_fragment_shader GL_ARB_fragment_shader_interlock GL_ARB_framebuffer_no_attachments GL_ARB_framebuffer_object GL_ARB_framebuffer_sRGB GL_ARB_geometry_shader4 GL_ARB_get_program_binary GL_ARB_get_texture_sub_image GL_ARB_gl_spirv GL_ARB_gpu_shader5 GL_ARB_gpu_shader_fp64 GL_ARB_gpu_shader_int64 GL_ARB_half_float_pixel GL_ARB_half_float_vertex GL_ARB_imaging GL_ARB_indirect_parameters GL_ARB_instanced_arrays GL_ARB_internalformat_query GL_ARB_internalformat_query2 GL_ARB_invalidate_subdata GL_ARB_map_buffer_alignment GL_ARB_map_buffer_range GL_ARB_multi_bind GL_ARB_multi_draw_indirect GL_ARB_multisample GL_ARB_multitexture GL_ARB_occlusion_query GL_ARB_occlusion_query2 GL_ARB_parallel_shader_compile GL_ARB_pipeline_statistics_query GL_ARB_pixel_buffer_object GL_ARB_point_parameters GL_ARB_point_sprite GL_ARB_polygon_offset_clamp GL_ARB_post_depth_coverage GL_ARB_program_interface_query GL_ARB_provoki
+ng_vertex GL_ARB_query_buffer_object GL_ARB_robust_buffer_access_behavior GL_ARB_robustness GL_ARB_sample_locations GL_ARB_sample_shading GL_ARB_sampler_objects GL_ARB_seamless_cube_map GL_ARB_seamless_cubemap_per_texture GL_ARB_separate_shader_objects GL_ARB_shader_atomic_counter_ops GL_ARB_shader_atomic_counters GL_ARB_shader_ballot GL_ARB_shader_bit_encoding GL_ARB_shader_clock GL_ARB_shader_draw_parameters GL_ARB_shader_group_vote GL_ARB_shader_image_load_store GL_ARB_shader_image_size GL_ARB_shader_objects GL_ARB_shader_precision GL_ARB_shader_storage_buffer_object GL_ARB_shader_subroutine GL_ARB_shader_texture_image_samples GL_ARB_shader_texture_lod GL_ARB_shading_language_100 GL_ARB_shader_viewport_layer_array GL_ARB_shading_language_420pack GL_ARB_shading_language_include GL_ARB_shading_language_packing GL_ARB_shadow GL_ARB_sparse_buffer GL_ARB_sparse_texture GL_ARB_sparse_texture2 GL_ARB_sparse_texture_clamp GL_ARB_spirv_extensions GL_ARB_stencil_texturing GL_ARB_sync GL_ARB_tessellation_shader GL_A
+RB_texture_barrier GL_ARB_texture_border_clamp GL_ARB_texture_buffer_object GL_ARB_texture_buffer_object_rgb32 GL_ARB_texture_buffer_range GL_ARB_texture_compression GL_ARB_texture_compression_bptc GL_ARB_texture_compression_rgtc GL_ARB_texture_cube_map GL_ARB_texture_cube_map_array GL_ARB_texture_env_add GL_ARB_texture_env_combine GL_ARB_texture_env_crossbar GL_ARB_texture_env_dot3 GL_ARB_texture_filter_anisotropic GL_ARB_texture_filter_minmax GL_ARB_texture_float GL_ARB_texture_gather GL_ARB_texture_mirror_clamp_to_edge GL_ARB_texture_mirrored_repeat GL_ARB_texture_multisample GL_ARB_texture_non_power_of_two GL_ARB_texture_query_levels GL_ARB_texture_query_lod GL_ARB_texture_rectangle GL_ARB_texture_rg GL_ARB_texture_rgb10_a2ui GL_ARB_texture_stencil8 GL_ARB_texture_storage GL_ARB_texture_storage_multisample GL_ARB_texture_swizzle GL_ARB_texture_view GL_ARB_timer_query GL_ARB_transform_feedback2 GL_ARB_transform_feedback3 GL_ARB_transform_feedback_instanced GL_ARB_transform_feedback_overflow_query GL_ARB_t
+ranspose_matrix GL_ARB_uniform_buffer_object GL_ARB_vertex_array_bgra GL_ARB_vertex_array_object GL_ARB_vertex_attrib_64bit GL_ARB_vertex_attrib_binding GL_ARB_vertex_buffer_object GL_ARB_vertex_program GL_ARB_vertex_shader GL_ARB_vertex_type_10f_11f_11f_rev GL_ARB_vertex_type_2_10_10_10_rev GL_ARB_viewport_array GL_ARB_window_pos GL_ATI_draw_buffers GL_ATI_texture_float GL_ATI_texture_mirror_once GL_S3_s3tc GL_EXT_texture_env_add GL_EXT_abgr GL_EXT_bgra GL_EXT_bindable_uniform GL_EXT_blend_color GL_EXT_blend_equation_separate GL_EXT_blend_func_separate GL_EXT_blend_minmax GL_EXT_blend_subtract GL_EXT_compiled_vertex_array GL_EXT_Cg_shader GL_EXT_depth_bounds_test GL_EXT_direct_state_access GL_EXT_draw_buffers2 GL_EXT_draw_instanced GL_EXT_draw_range_elements GL_EXT_fog_coord GL_EXT_framebuffer_blit GL_EXT_framebuffer_multisample GL_EXTX_framebuffer_mixed_formats GL_EXT_framebuffer_multisample_blit_scaled GL_EXT_framebuffer_object GL_EXT_framebuffer_sRGB GL_EXT_geometry_shader4 GL_EXT_gpu_program_parameters 
+GL_EXT_gpu_shader4 GL_EXT_multi_draw_arrays GL_EXT_multiview_texture_multisample GL_EXT_multiview_timer_query GL_EXT_packed_depth_stencil GL_EXT_packed_float GL_EXT_packed_pixels GL_EXT_pixel_buffer_object GL_EXT_point_parameters GL_EXT_polygon_offset_clamp GL_EXT_post_depth_coverage GL_EXT_provoking_vertex GL_EXT_raster_multisample GL_EXT_rescale_normal GL_EXT_secondary_color GL_EXT_separate_shader_objects GL_EXT_separate_specular_color GL_EXT_shader_image_load_formatted GL_EXT_shader_image_load_store GL_EXT_shader_integer_mix GL_EXT_shadow_funcs GL_EXT_sparse_texture2 GL_EXT_stencil_two_side GL_EXT_stencil_wrap GL_EXT_texture3D GL_EXT_texture_array GL_EXT_texture_buffer_object GL_EXT_texture_compression_dxt1 GL_EXT_texture_compression_latc GL_EXT_texture_compression_rgtc GL_EXT_texture_compression_s3tc GL_EXT_texture_cube_map GL_EXT_texture_edge_clamp GL_EXT_texture_env_combine GL_EXT_texture_env_dot3 GL_EXT_texture_filter_anisotropic GL_EXT_texture_filter_minmax GL_EXT_texture_integer GL_EXT_texture_lod G
+L_EXT_texture_lod_bias GL_EXT_texture_mirror_clamp GL_EXT_texture_object GL_EXT_texture_shadow_lod GL_EXT_texture_shared_exponent GL_EXT_texture_sRGB GL_EXT_texture_sRGB_R8 GL_EXT_texture_sRGB_decode GL_EXT_texture_storage GL_EXT_texture_swizzle GL_EXT_timer_query GL_EXT_transform_feedback2 GL_EXT_vertex_array GL_EXT_vertex_array_bgra GL_EXT_vertex_attrib_64bit GL_EXT_window_rectangles GL_EXT_x11_sync_object GL_EXT_import_sync_object GL_NV_robustness_video_memory_purge GL_IBM_rasterpos_clip GL_IBM_texture_mirrored_repeat GL_KHR_context_flush_control GL_KHR_debug GL_EXT_memory_object GL_EXT_memory_object_fd GL_NV_memory_object_sparse GL_KHR_parallel_shader_compile GL_KHR_no_error GL_KHR_robust_buffer_access_behavior GL_KHR_robustness GL_EXT_semaphore GL_EXT_semaphore_fd GL_NV_timeline_semaphore GL_KHR_shader_subgroup GL_KTX_buffer_region GL_NV_alpha_to_coverage_dither_control GL_NV_bindless_multi_draw_indirect GL_NV_bindless_multi_draw_indirect_count GL_NV_bindless_texture GL_NV_blend_equation_advanced GL_NV_
+blend_equation_advanced_coherent GL_NVX_blend_equation_advanced_multi_draw_buffers GL_NV_blend_minmax_factor GL_NV_blend_square GL_NV_clip_space_w_scaling GL_NV_command_list GL_NV_compute_program5 GL_NV_conditional_render GL_NV_conservative_raster GL_NV_conservative_raster_dilate GL_NV_conservative_raster_pre_snap_triangles GL_NV_copy_depth_to_color GL_NV_copy_image GL_NV_depth_buffer_float GL_NV_depth_clamp GL_NV_draw_texture GL_NV_draw_vulkan_image GL_NV_ES1_1_compatibility GL_NV_ES3_1_compatibility GL_NV_explicit_multisample GL_NV_feature_query GL_NV_fence GL_NV_fill_rectangle GL_NV_float_buffer GL_NV_fog_distance GL_NV_fragment_coverage_to_color GL_NV_fragment_program GL_NV_fragment_program_option GL_NV_fragment_program2 GL_NV_fragment_shader_interlock GL_NV_framebuffer_mixed_samples GL_NV_framebuffer_multisample_coverage GL_NV_geometry_shader4 GL_NV_geometry_shader_passthrough GL_NV_gpu_program4 GL_NV_internalformat_sample_query GL_NV_gpu_program4_1 GL_NV_gpu_program5 GL_NV_gpu_program5_mem_extended GL_
+NV_gpu_program_fp64 GL_NV_gpu_shader5 GL_NV_half_float GL_NV_light_max_exponent GL_NV_memory_attachment GL_NV_multisample_coverage GL_NV_multisample_filter_hint GL_NV_occlusion_query GL_NV_packed_depth_stencil GL_NV_parameter_buffer_object GL_NV_parameter_buffer_object2 GL_NV_path_rendering GL_NV_path_rendering_shared_edge GL_NV_pixel_data_range GL_NV_point_sprite GL_NV_primitive_restart GL_NV_query_resource GL_NV_query_resource_tag GL_NV_register_combiners GL_NV_register_combiners2 GL_NV_sample_locations GL_NV_sample_mask_override_coverage GL_NV_shader_atomic_counters GL_NV_shader_atomic_float GL_NV_shader_atomic_float64 GL_NV_shader_atomic_fp16_vector GL_NV_shader_atomic_int64 GL_NV_shader_buffer_load GL_NV_shader_storage_buffer_object GL_NV_shader_subgroup_partitioned GL_NV_stereo_view_rendering GL_NV_texgen_reflection GL_NV_texture_barrier GL_NV_texture_compression_vtc GL_NV_texture_env_combine4 GL_NV_texture_multisample GL_NV_texture_rectangle GL_NV_texture_rectangle_compressed GL_NV_texture_shader GL_N
+V_texture_shader2 GL_NV_texture_shader3 GL_NV_transform_feedback GL_NV_transform_feedback2 GL_NV_uniform_buffer_unified_memory GL_NV_vdpau_interop GL_NV_vdpau_interop2 GL_NV_vertex_array_range GL_NV_vertex_array_range2 GL_NV_vertex_attrib_integer_64bit GL_NV_vertex_buffer_unified_memory GL_NV_vertex_program GL_NV_vertex_program1_1 GL_NV_vertex_program2 GL_NV_vertex_program2_option GL_NV_vertex_program3 GL_NV_viewport_array2 GL_NV_viewport_swizzle GL_NVX_conditional_render GL_NV_gpu_multicast GL_NVX_progress_fence GL_NVX_gpu_memory_info GL_NVX_nvenc_interop GL_NV_shader_thread_group GL_NV_shader_thread_shuffle GL_KHR_blend_equation_advanced GL_KHR_blend_equation_advanced_coherent GL_OVR_multiview GL_OVR_multiview2 GL_SGIS_generate_mipmap GL_SGIS_texture_lod GL_SGIX_depth_texture GL_SGIX_shadow GL_SUN_slice_accum
+OPENGL LOG: Creating OpenGL 4.5 graphics device ; Context level  <OpenGL 4.5> ; Context handle 1876594904
+Initialize mono
+Mono path[0] = '/home/alianpro/Unity-2021.3.1f1/Editor/Data/Managed'
+Mono path[1] = '/home/alianpro/Unity-2021.3.1f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-linux'
+Mono config path = '/home/alianpro/Unity-2021.3.1f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56674
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /home/alianpro/Unity-2021.3.1f1/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
+Registered in 0.003980 seconds.
+Native extension for LinuxStandalone target not found
+Refreshing native plugins compatible for Editor in 66.69 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.591 seconds
+Domain Reload Profiling:
+	ReloadAssembly (591ms)
+		BeginReloadAssembly (47ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (440ms)
+			LoadAssemblies (45ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (104ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (31ms)
+			SetupLoadedEditorAssemblies (258ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (7ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (67ms)
+				BeforeProcessingInitializeOnLoad (1ms)
+				ProcessInitializeOnLoadAttributes (135ms)
+				ProcessInitializeOnLoadMethodAttributes (47ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.002754 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /home/alianpro/Music/TowerDefenseCG/Tower Defense Unity Project/Library/PackageCache/com.unity.visualscripting@1.7.6/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory doesn't match image /home/alianpro/Music/TowerDefenseCG/Tower Defense Unity Project/Library/PackageCache/com.unity.visualscripting@1.7.6/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Native extension for LinuxStandalone target not found
+Refreshing native plugins compatible for Editor in 0.57 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.945 seconds
+Domain Reload Profiling:
+	ReloadAssembly (945ms)
+		BeginReloadAssembly (97ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (7ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (18ms)
+		EndReloadAssembly (737ms)
+			LoadAssemblies (66ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (231ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (53ms)
+			SetupLoadedEditorAssemblies (340ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (7ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (66ms)
+				ProcessInitializeOnLoadAttributes (229ms)
+				ProcessInitializeOnLoadMethodAttributes (33ms)
+				AfterProcessingInitializeOnLoad (4ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (4ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Launched and connected shader compiler UnityShaderCompiler after 0.01 seconds
+Refreshing native plugins compatible for Editor in 0.55 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3128 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 20 unused Assets / (28.0 KB). Loaded Objects now: 3592.
+Memory consumption went from 104.0 MB to 104.0 MB.
+Total: 3.419842 ms (FindLiveObjects: 0.335799 ms CreateObjectMapping: 0.233421 ms MarkObjects: 2.753498 ms  DeleteObjects: 0.095681 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 6845.631917 seconds.
+  path: Assets/Sci-Fi Vehicles/Vehicle_1 1/Vehicle_1.fbx
+  artifactKey: Guid(5c7646bdce3f2cf5fb0c0172f5f74669) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sci-Fi Vehicles/Vehicle_1 1/Vehicle_1.fbx using Guid(5c7646bdce3f2cf5fb0c0172f5f74669) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a7f3880064dcd198dd5bdeda575863c3') in 0.230286 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Sci-Fi Vehicles/Vehicle_1 1/Vehicle_1.prefab
+  artifactKey: Guid(a6527a7e8eded4be9ba5b72ac7e96350) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sci-Fi Vehicles/Vehicle_1 1/Vehicle_1.prefab using Guid(a6527a7e8eded4be9ba5b72ac7e96350) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8fca7ac4b04f6c26ee430b6123ab73e5') in 0.045894 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.575644 seconds.
+  path: Assets/Sci-Fi Vehicles/Ground.mat
+  artifactKey: Guid(de31fa057a0f9c74394f554986fc277b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sci-Fi Vehicles/Ground.mat using Guid(de31fa057a0f9c74394f554986fc277b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2fa66bc9f84a7888857a3bb78da2ec01') in 0.035499 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.791030 seconds.
+  path: Assets/Sci-Fi Vehicles/Vehicle_1 2/Vehicle_1.fbx
+  artifactKey: Guid(36076b19a2c8a2af097a833cff1d7243) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sci-Fi Vehicles/Vehicle_1 2/Vehicle_1.fbx using Guid(36076b19a2c8a2af097a833cff1d7243) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30286fa6a56abb79f073b341506a1d65') in 0.100695 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Sci-Fi Vehicles/Vehicle_1 2/Vehicle_1.prefab
+  artifactKey: Guid(2e05b84efa27b0b7990994f8fe8de0ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sci-Fi Vehicles/Vehicle_1 2/Vehicle_1.prefab using Guid(2e05b84efa27b0b7990994f8fe8de0ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '43807019982265775aee7dc306a84672') in 0.032348 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 134.632948 seconds.
+  path: Assets/Sci-Fi Vehicles/Vehicle_1/Materials/Cannon_1_D.mat
+  artifactKey: Guid(09acc8aa0895cc647b4c403043313175) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sci-Fi Vehicles/Vehicle_1/Materials/Cannon_1_D.mat using Guid(09acc8aa0895cc647b4c403043313175) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5123fb1544f1379ea8e99830e3b6182a') in 0.011528 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Sci-Fi Vehicles/Vehicle_1/Materials/Wheels_2_D.mat
+  artifactKey: Guid(ef4b06217c59dab4c85461fa0dbb175e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sci-Fi Vehicles/Vehicle_1/Materials/Wheels_2_D.mat using Guid(ef4b06217c59dab4c85461fa0dbb175e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '596fec0e8bfaeeac5f18ebafbbaec355') in 0.012078 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Sci-Fi Vehicles/Vehicle_1/Materials/Vehicle_1_D.mat
+  artifactKey: Guid(6f18d617d16bfd340a72aa6a00a147e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sci-Fi Vehicles/Vehicle_1/Materials/Vehicle_1_D.mat using Guid(6f18d617d16bfd340a72aa6a00a147e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '254a7d0170a50302bdf7a84bd07450f0') in 0.016860 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/Sci-Fi Vehicles/Vehicle_1/Materials/Wheels_1_D.mat
+  artifactKey: Guid(a9f4db442e5daed4f844c97fb8feddff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sci-Fi Vehicles/Vehicle_1/Materials/Wheels_1_D.mat using Guid(a9f4db442e5daed4f844c97fb8feddff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c7c3230882b0fdbe67e600b2ba8de94') in 0.010538 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.511003 seconds.
+  path: Assets/Sci-Fi Vehicles/Vehicle_1/Textures/Cannon_1_AO.png
+  artifactKey: Guid(8abcdbbf3f5612247895de11ffd7d1b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sci-Fi Vehicles/Vehicle_1/Textures/Cannon_1_AO.png using Guid(8abcdbbf3f5612247895de11ffd7d1b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf3ec43565b41f44114d0524369acd0e') in 0.027254 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Sci-Fi Vehicles/Vehicle_1/Textures/Wheels_1_H.png
+  artifactKey: Guid(09d7c3da765a0c444abcfa662efa0022) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sci-Fi Vehicles/Vehicle_1/Textures/Wheels_1_H.png using Guid(09d7c3da765a0c444abcfa662efa0022) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa713239409e780977b7c7f3b012f8fc') in 0.006149 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Sci-Fi Vehicles/Vehicle_1/Textures/Cannon_1_E.png
+  artifactKey: Guid(073cf93cea5a7cd498e200723566da3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sci-Fi Vehicles/Vehicle_1/Textures/Cannon_1_E.png using Guid(073cf93cea5a7cd498e200723566da3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3569818fde45aa2e1da7e013a810bb85') in 0.004544 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000055 seconds.
+  path: Assets/Sci-Fi Vehicles/Vehicle_1/Textures/Wheels_1_N.png
+  artifactKey: Guid(b24d61661dcdf084284efbac85f0810d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sci-Fi Vehicles/Vehicle_1/Textures/Wheels_1_N.png using Guid(b24d61661dcdf084284efbac85f0810d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b7516f9d77d54381e38d5c99c22c631b') in 0.007332 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Sci-Fi Vehicles/Vehicle_1/Textures/Wheels_2_AO.png
+  artifactKey: Guid(eff9561683a675e43acc4c7800494536) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sci-Fi Vehicles/Vehicle_1/Textures/Wheels_2_AO.png using Guid(eff9561683a675e43acc4c7800494536) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d2e7fd6cdef5fb056c61a7b67daca4f') in 0.005470 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Sci-Fi Vehicles/Vehicle_1/Textures/Vehicle_1_D.png
+  artifactKey: Guid(33d3f10e6cbafba42885326538f71d5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sci-Fi Vehicles/Vehicle_1/Textures/Vehicle_1_D.png using Guid(33d3f10e6cbafba42885326538f71d5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da05f2b9d6bda5871610ee506071315f') in 0.006684 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/Sci-Fi Vehicles/Vehicle_1/Textures/Wheels_2_S.png
+  artifactKey: Guid(88f00611f5403d04b81e42f3786d8076) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sci-Fi Vehicles/Vehicle_1/Textures/Wheels_2_S.png using Guid(88f00611f5403d04b81e42f3786d8076) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '808e49d8b92c34cddec9fa6bbe0833f9') in 0.005966 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Sci-Fi Vehicles/Vehicle_1/Textures/Wheels_1_D.png
+  artifactKey: Guid(5785600cdd65b244ca55cbbb8de80398) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sci-Fi Vehicles/Vehicle_1/Textures/Wheels_1_D.png using Guid(5785600cdd65b244ca55cbbb8de80398) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45c1897d462072bbab4ed0e6ee0fde55') in 0.005954 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Sci-Fi Vehicles/Vehicle_1/Textures/Cannon_1_D.png
+  artifactKey: Guid(eef4a1a70a1d75248be14769a5e6b153) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sci-Fi Vehicles/Vehicle_1/Textures/Cannon_1_D.png using Guid(eef4a1a70a1d75248be14769a5e6b153) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1696b44b207f3aa2b885f3952da527d0') in 0.005036 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Sci-Fi Vehicles/Vehicle_1/Textures/Vehicle_1_AO.png
+  artifactKey: Guid(f5d7edfa4a295ac47ae36f444d5cc71b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sci-Fi Vehicles/Vehicle_1/Textures/Vehicle_1_AO.png using Guid(f5d7edfa4a295ac47ae36f444d5cc71b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e14fbeed2ed983452499173cda23412e') in 0.009218 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/Sci-Fi Vehicles/Vehicle_1/Textures/Wheels_2_H.png
+  artifactKey: Guid(0542e32873880ca4784e8dd632f6e696) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sci-Fi Vehicles/Vehicle_1/Textures/Wheels_2_H.png using Guid(0542e32873880ca4784e8dd632f6e696) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c90e8297636eaab1731bf3a20e0bb28') in 0.005224 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/Sci-Fi Vehicles/Vehicle_1/Textures/Cannon_1_S.png
+  artifactKey: Guid(f424356c28939754dba7251a2e17d68d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sci-Fi Vehicles/Vehicle_1/Textures/Cannon_1_S.png using Guid(f424356c28939754dba7251a2e17d68d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7c0c14dad8a3ee0408d1eb77c5d8a49') in 0.004927 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Sci-Fi Vehicles/Vehicle_1/Textures/Wheels_2_N.png
+  artifactKey: Guid(e84fbc032065a354981a06ba2a5702c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sci-Fi Vehicles/Vehicle_1/Textures/Wheels_2_N.png using Guid(e84fbc032065a354981a06ba2a5702c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'afa3603cda829559a2f4f52173211372') in 0.005378 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Sci-Fi Vehicles/Vehicle_1/Textures/Wheels_2_D.png
+  artifactKey: Guid(7ea8dcc505c6ecc42b0d88b9fc65d824) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sci-Fi Vehicles/Vehicle_1/Textures/Wheels_2_D.png using Guid(7ea8dcc505c6ecc42b0d88b9fc65d824) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f96e544e5f13c05cdfdca9945ec1b22') in 0.005857 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Sci-Fi Vehicles/Vehicle_1/Textures/Wheels_1_AO.png
+  artifactKey: Guid(af580faa8a4deeb43b69aea4f80e7a75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sci-Fi Vehicles/Vehicle_1/Textures/Wheels_1_AO.png using Guid(af580faa8a4deeb43b69aea4f80e7a75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f19acc198d3c526ad9b5529ee8d9650b') in 0.005439 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Sci-Fi Vehicles/Vehicle_1/Textures/Vehicle_1_S.png
+  artifactKey: Guid(9e27b1646506f5c43b3f8732386e5f22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sci-Fi Vehicles/Vehicle_1/Textures/Vehicle_1_S.png using Guid(9e27b1646506f5c43b3f8732386e5f22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8342bc56401689ea4200c82fde61162') in 0.006464 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Sci-Fi Vehicles/Vehicle_1/Textures/Cannon_1_N.png
+  artifactKey: Guid(5b2d1f8b68d48bf46ac5af742d5727b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sci-Fi Vehicles/Vehicle_1/Textures/Cannon_1_N.png using Guid(5b2d1f8b68d48bf46ac5af742d5727b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d129b043a9b2ac29e63d66d1faea5c1') in 0.004776 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/Sci-Fi Vehicles/Vehicle_1/Textures/Vehicle_1_H.png
+  artifactKey: Guid(1913e2f4a9f35654cb23a056e836aa8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sci-Fi Vehicles/Vehicle_1/Textures/Vehicle_1_H.png using Guid(1913e2f4a9f35654cb23a056e836aa8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b87b93c86847d7a07308b046dcc506f') in 0.008075 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Sci-Fi Vehicles/Vehicle_1/Textures/Cannon_1_H.png
+  artifactKey: Guid(ccdce8b55a0b0c14fb537425a983a133) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sci-Fi Vehicles/Vehicle_1/Textures/Cannon_1_H.png using Guid(ccdce8b55a0b0c14fb537425a983a133) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb8ac5ebb57f591710b4ccd2127bfb34') in 0.004486 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/Sci-Fi Vehicles/Vehicle_1/Textures/Vehicle_1_E.png
+  artifactKey: Guid(f5a7ce8050b21704aa8d0f89b8631186) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sci-Fi Vehicles/Vehicle_1/Textures/Vehicle_1_E.png using Guid(f5a7ce8050b21704aa8d0f89b8631186) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45ba48e04ca58cfa18f91719375d2ca1') in 0.004931 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/Sci-Fi Vehicles/Vehicle_1/Textures/Wheels_1_S.png
+  artifactKey: Guid(091c44dc03abf5f4c96a0cf1ce0348be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sci-Fi Vehicles/Vehicle_1/Textures/Wheels_1_S.png using Guid(091c44dc03abf5f4c96a0cf1ce0348be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99f99b8fe81d2ae7e345dc71f6713cd0') in 0.005357 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Sci-Fi Vehicles/Vehicle_1/Textures/Vehicle_1_N.png
+  artifactKey: Guid(449108c165d52e844a4024aada57e9dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sci-Fi Vehicles/Vehicle_1/Textures/Vehicle_1_N.png using Guid(449108c165d52e844a4024aada57e9dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '764bbc7739a9dc15c8f85b78300d9859') in 0.007759 seconds 
+========================================================================
+Received Prepare
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Registering precompiled user dll's ...
+Registered in 0.002378 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /home/alianpro/Music/TowerDefenseCG/Tower Defense Unity Project/Library/PackageCache/com.unity.visualscripting@1.7.6/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory doesn't match image /home/alianpro/Music/TowerDefenseCG/Tower Defense Unity Project/Library/PackageCache/com.unity.visualscripting@1.7.6/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Native extension for LinuxStandalone target not found
+Refreshing native plugins compatible for Editor in 0.46 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.802 seconds
+Domain Reload Profiling:
+	ReloadAssembly (803ms)
+		BeginReloadAssembly (93ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (4ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (31ms)
+		EndReloadAssembly (619ms)
+			LoadAssemblies (53ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (195ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (41ms)
+			SetupLoadedEditorAssemblies (274ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (10ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (48ms)
+				ProcessInitializeOnLoadAttributes (188ms)
+				ProcessInitializeOnLoadMethodAttributes (21ms)
+				AfterProcessingInitializeOnLoad (5ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (4ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.17 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3122 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 13 unused Assets / (22.0 KB). Loaded Objects now: 3642.
+Memory consumption went from 106.6 MB to 106.6 MB.
+Total: 3.121856 ms (FindLiveObjects: 0.256570 ms CreateObjectMapping: 0.155742 ms MarkObjects: 2.692292 ms  DeleteObjects: 0.016397 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 19.839180 seconds.
+  path: Assets/Sci-Fi Vehicles/Vehicle_2/Vehicle_1(Clone).prefab
+  artifactKey: Guid(8f39bf137a2117c71a68b98030dacf1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sci-Fi Vehicles/Vehicle_2/Vehicle_1(Clone).prefab using Guid(8f39bf137a2117c71a68b98030dacf1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cac50fb5deddf0c9558a287ac9338eed') in 0.112046 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 15.902231 seconds.
+  path: Assets/Sci-Fi Vehicles/Vehicle_2/Vehicle_2.prefab
+  artifactKey: Guid(8f39bf137a2117c71a68b98030dacf1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sci-Fi Vehicles/Vehicle_2/Vehicle_2.prefab using Guid(8f39bf137a2117c71a68b98030dacf1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7832abab832cd18850630eab55b10bdf') in 0.078957 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5.200182 seconds.
+  path: Assets/Sci-Fi Vehicles/Vehicle_2/Vehicle_2.fbx
+  artifactKey: Guid(5c7646bdce3f2cf5fb0c0172f5f74669) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sci-Fi Vehicles/Vehicle_2/Vehicle_2.fbx using Guid(5c7646bdce3f2cf5fb0c0172f5f74669) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb276f0b9ccb171562a42583c38dd922') in 0.115091 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.682534 seconds.
+  path: Assets/Sci-Fi Vehicles/Vehicle_2/Vehicle_2.prefab
+  artifactKey: Guid(8f39bf137a2117c71a68b98030dacf1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sci-Fi Vehicles/Vehicle_2/Vehicle_2.prefab using Guid(8f39bf137a2117c71a68b98030dacf1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a556f2ebaedd1e9871c6a863334870ba') in 0.030278 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.787121 seconds.
+  path: Assets/Sci-Fi Vehicles/Vehicle_2/Vehicle_2.prefab
+  artifactKey: Guid(8f39bf137a2117c71a68b98030dacf1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sci-Fi Vehicles/Vehicle_2/Vehicle_2.prefab using Guid(8f39bf137a2117c71a68b98030dacf1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40ea61ac7034ad2b39ecd1a48e5bb242') in 0.003504 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.832937 seconds.
+  path: Assets/Sci-Fi Vehicles/Vehicle_2/Vehicle_2.prefab
+  artifactKey: Guid(8f39bf137a2117c71a68b98030dacf1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sci-Fi Vehicles/Vehicle_2/Vehicle_2.prefab using Guid(8f39bf137a2117c71a68b98030dacf1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '64615bf901ced418b056b4c31ab85b30') in 0.033074 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 17.583822 seconds.
+  path: Assets/Sci-Fi Vehicles/Vehicle_3/Vehicle_1.prefab
+  artifactKey: Guid(2e05b84efa27b0b7990994f8fe8de0ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sci-Fi Vehicles/Vehicle_3/Vehicle_1.prefab using Guid(2e05b84efa27b0b7990994f8fe8de0ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e91a625a01ea65b0aa3895a037ccc44') in 0.030830 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.367468 seconds.
+  path: Assets/Sci-Fi Vehicles/Vehicle_3/Vehicle_1.prefab
+  artifactKey: Guid(2e05b84efa27b0b7990994f8fe8de0ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sci-Fi Vehicles/Vehicle_3/Vehicle_1.prefab using Guid(2e05b84efa27b0b7990994f8fe8de0ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf6cc46bd8d2d212d132add66f43fffe') in 0.003732 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.420469 seconds.
+  path: Assets/Sci-Fi Vehicles/Vehicle_3/Vehicle_1.prefab
+  artifactKey: Guid(2e05b84efa27b0b7990994f8fe8de0ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sci-Fi Vehicles/Vehicle_3/Vehicle_1.prefab using Guid(2e05b84efa27b0b7990994f8fe8de0ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1106d85393b084eed5074a3ad773af35') in 0.037124 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.712060 seconds.
+  path: Assets/Sci-Fi Vehicles/Vehicle_3/Vehicle_1.prefab
+  artifactKey: Guid(2e05b84efa27b0b7990994f8fe8de0ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sci-Fi Vehicles/Vehicle_3/Vehicle_1.prefab using Guid(2e05b84efa27b0b7990994f8fe8de0ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16b00ffb35ff2b1fdf1e45508035792d') in 0.031544 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Sci-Fi Vehicles/Vehicle_3/Vehicle_3.fbx
+  artifactKey: Guid(36076b19a2c8a2af097a833cff1d7243) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sci-Fi Vehicles/Vehicle_3/Vehicle_3.fbx using Guid(36076b19a2c8a2af097a833cff1d7243) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db11b5e6c53745109e48821b94e76121') in 0.101433 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.775489 seconds.
+  path: Assets/Sci-Fi Vehicles/Vehicle_3/Vehicle_3.prefab
+  artifactKey: Guid(2e05b84efa27b0b7990994f8fe8de0ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sci-Fi Vehicles/Vehicle_3/Vehicle_3.prefab using Guid(2e05b84efa27b0b7990994f8fe8de0ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '24ec52d6d06d930ad9ac34703626568f') in 0.043725 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 10.666456 seconds.
+  path: Assets/Sci-Fi Vehicles/Vehicle_3/Vehicle_3.prefab
+  artifactKey: Guid(2e05b84efa27b0b7990994f8fe8de0ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sci-Fi Vehicles/Vehicle_3/Vehicle_3.prefab using Guid(2e05b84efa27b0b7990994f8fe8de0ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c289b0ee5149b77e0e2a59dd28316c59') in 0.034531 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 6.636591 seconds.
+  path: Assets/Sci-Fi Vehicles/Vehicle_2/Materials/Cannon_1_D.mat
+  artifactKey: Guid(ba29224ca035406a99f6f72c73061983) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sci-Fi Vehicles/Vehicle_2/Materials/Cannon_1_D.mat using Guid(ba29224ca035406a99f6f72c73061983) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3a78a55effff7589c8858720a03ee75') in 0.040053 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Sci-Fi Vehicles/Vehicle_2/Materials/Wheels_2_D.mat
+  artifactKey: Guid(3fc7f8e22ed9844e1a2aade8afb08440) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sci-Fi Vehicles/Vehicle_2/Materials/Wheels_2_D.mat using Guid(3fc7f8e22ed9844e1a2aade8afb08440) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f7de36c1c756c52218a9ebb67ae5ab15') in 0.011015 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Sci-Fi Vehicles/Vehicle_2/Materials/Wheels_1_D.mat
+  artifactKey: Guid(9e62df5758443eabd81670ee61b8de7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sci-Fi Vehicles/Vehicle_2/Materials/Wheels_1_D.mat using Guid(9e62df5758443eabd81670ee61b8de7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00429e92f083306da2dcc9d60cf9d618') in 0.010233 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Sci-Fi Vehicles/Vehicle_2/Materials/Vehicle_1_D.mat
+  artifactKey: Guid(55565bfe0e0a9c82f89b91f07e47e9b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sci-Fi Vehicles/Vehicle_2/Materials/Vehicle_1_D.mat using Guid(55565bfe0e0a9c82f89b91f07e47e9b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40cf0c8c387e76ed67f32e693a4f4c44') in 0.016972 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 70.436488 seconds.
+  path: Assets/Sci-Fi Vehicles/Vehicle_1/Vehicle_1.fbx
+  artifactKey: Guid(de8e2ff41a8ff424abff785f2342690a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sci-Fi Vehicles/Vehicle_1/Vehicle_1.fbx using Guid(de8e2ff41a8ff424abff785f2342690a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5cf6a5d1bab7aaf44b646e8f612b058c') in 0.105205 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Sci-Fi Vehicles/Vehicle_1/Vehicle_1.prefab
+  artifactKey: Guid(88f3f08f6d7b042448928c46f0f62198) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sci-Fi Vehicles/Vehicle_1/Vehicle_1.prefab using Guid(88f3f08f6d7b042448928c46f0f62198) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5436c84ae69d1c2e04c2192d516d4a0f') in 0.036015 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 13.232313 seconds.
+  path: Assets/Sci-Fi Vehicles/Vehicle_2/Vehicle_2.prefab
+  artifactKey: Guid(8f39bf137a2117c71a68b98030dacf1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sci-Fi Vehicles/Vehicle_2/Vehicle_2.prefab using Guid(8f39bf137a2117c71a68b98030dacf1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '26e1072eba6e1f12eaa39da7c59bc51d') in 0.031957 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.911262 seconds.
+  path: Assets/Sci-Fi Vehicles/Vehicle_2/Vehicle_2.prefab
+  artifactKey: Guid(8f39bf137a2117c71a68b98030dacf1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sci-Fi Vehicles/Vehicle_2/Vehicle_2.prefab using Guid(8f39bf137a2117c71a68b98030dacf1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5507793fe46d494bc9dec8cfe9f461e0') in 0.033192 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 110.787707 seconds.
+  path: Assets/Sci-Fi Vehicles/Vehicle_2/Vehicle_2.fbx
+  artifactKey: Guid(5c7646bdce3f2cf5fb0c0172f5f74669) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sci-Fi Vehicles/Vehicle_2/Vehicle_2.fbx using Guid(5c7646bdce3f2cf5fb0c0172f5f74669) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '34110b2dfac39514d330f2f009677d32') in 0.102932 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Sci-Fi Vehicles/Vehicle_2/Vehicle_2.prefab
+  artifactKey: Guid(8f39bf137a2117c71a68b98030dacf1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sci-Fi Vehicles/Vehicle_2/Vehicle_2.prefab using Guid(8f39bf137a2117c71a68b98030dacf1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee2cb883df50a008b318ddc30472fb96') in 0.037416 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 19.564503 seconds.
+  path: Assets/Sci-Fi Vehicles/Vehicle_3/Vehicle_3.prefab
+  artifactKey: Guid(2e05b84efa27b0b7990994f8fe8de0ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sci-Fi Vehicles/Vehicle_3/Vehicle_3.prefab using Guid(2e05b84efa27b0b7990994f8fe8de0ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '685049af532c4490a9c6797e62ea7472') in 0.033873 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 6.037019 seconds.
+  path: Assets/Sci-Fi Vehicles/Vehicle_3/Vehicle_3.prefab
+  artifactKey: Guid(2e05b84efa27b0b7990994f8fe8de0ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sci-Fi Vehicles/Vehicle_3/Vehicle_3.prefab using Guid(2e05b84efa27b0b7990994f8fe8de0ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d85cedb715514503709873cc990d8ff') in 0.043626 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 90.600080 seconds.
+  path: Assets/Sci-Fi Vehicles/Vehicle_3/Vehicle_3.fbx
+  artifactKey: Guid(36076b19a2c8a2af097a833cff1d7243) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sci-Fi Vehicles/Vehicle_3/Vehicle_3.fbx using Guid(36076b19a2c8a2af097a833cff1d7243) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e3b8c2e57543d2328eb2ea2e20ebd1fc') in 0.111131 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Sci-Fi Vehicles/Vehicle_3/Vehicle_3.prefab
+  artifactKey: Guid(2e05b84efa27b0b7990994f8fe8de0ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sci-Fi Vehicles/Vehicle_3/Vehicle_3.prefab using Guid(2e05b84efa27b0b7990994f8fe8de0ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1fe498f184fba77d3a99f61cfa93d1bc') in 0.034327 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.908818 seconds.
+  path: Assets/Sci-Fi Vehicles/Vehicle_2/Textures/Cannon_1_AO.png
+  artifactKey: Guid(137be2b4c74bea28c863132295d77689) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sci-Fi Vehicles/Vehicle_2/Textures/Cannon_1_AO.png using Guid(137be2b4c74bea28c863132295d77689) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd773b040833ab5a84db40d87fd93f3bb') in 0.024800 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Sci-Fi Vehicles/Vehicle_2/Textures/Vehicle_1_N.png
+  artifactKey: Guid(dc554410e5b9363f69a4978b2b09bb05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sci-Fi Vehicles/Vehicle_2/Textures/Vehicle_1_N.png using Guid(dc554410e5b9363f69a4978b2b09bb05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b902da5c18b9549d616afe9b5ff54d5') in 0.009273 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Sci-Fi Vehicles/Vehicle_2/Textures/Cannon_1_N.png
+  artifactKey: Guid(a35d83e8b6b1299588de55f007327f30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sci-Fi Vehicles/Vehicle_2/Textures/Cannon_1_N.png using Guid(a35d83e8b6b1299588de55f007327f30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c7d8a41c3ce230e972536db0ca02039c') in 0.005004 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Sci-Fi Vehicles/Vehicle_2/Textures/Cannon_1_H.png
+  artifactKey: Guid(d64e645fc0beb4ab393328367ee6db7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sci-Fi Vehicles/Vehicle_2/Textures/Cannon_1_H.png using Guid(d64e645fc0beb4ab393328367ee6db7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e21d5cd6cf2725907f1a1d077f0e2fd7') in 0.004899 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/Sci-Fi Vehicles/Vehicle_2/Textures/Vehicle_1_D.png
+  artifactKey: Guid(d0086c9a4320c67bdb482b2c3b9f3631) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sci-Fi Vehicles/Vehicle_2/Textures/Vehicle_1_D.png using Guid(d0086c9a4320c67bdb482b2c3b9f3631) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '755bc123a9e8995f69fdd1ba975d661d') in 0.006772 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Sci-Fi Vehicles/Vehicle_2/Textures/Cannon_1_D.png
+  artifactKey: Guid(e562521aa938e5bb9879cadbe5a29dd7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sci-Fi Vehicles/Vehicle_2/Textures/Cannon_1_D.png using Guid(e562521aa938e5bb9879cadbe5a29dd7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a87eb45b4cacf765e71493aa03b43a73') in 0.005159 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/Sci-Fi Vehicles/Vehicle_2/Textures/Vehicle_1_H.png
+  artifactKey: Guid(f0951762506d29e218604cc493c953d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sci-Fi Vehicles/Vehicle_2/Textures/Vehicle_1_H.png using Guid(f0951762506d29e218604cc493c953d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '314d34e96a68db6260b09cdeb4d41fcf') in 0.007691 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Sci-Fi Vehicles/Vehicle_2/Textures/Wheels_1_S.png
+  artifactKey: Guid(21add0818bd59a824a716a452a31982b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sci-Fi Vehicles/Vehicle_2/Textures/Wheels_1_S.png using Guid(21add0818bd59a824a716a452a31982b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0feb6951f45fcca0e99b63ef8c583da6') in 0.005827 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Sci-Fi Vehicles/Vehicle_2/Textures/Wheels_2_S.png
+  artifactKey: Guid(23582338bb8d62b3e9c76cf119eb2962) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sci-Fi Vehicles/Vehicle_2/Textures/Wheels_2_S.png using Guid(23582338bb8d62b3e9c76cf119eb2962) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d5ed5a29d662957aba3a1d84fafcb81') in 0.005401 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Sci-Fi Vehicles/Vehicle_2/Textures/Wheels_1_H.png
+  artifactKey: Guid(51e7ff6a0ab1802babe42295c87861c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sci-Fi Vehicles/Vehicle_2/Textures/Wheels_1_H.png using Guid(51e7ff6a0ab1802babe42295c87861c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37ce26f1b03f13ca67ba5db0da5cec23') in 0.006074 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Sci-Fi Vehicles/Vehicle_2/Textures/Cannon_1_E.png
+  artifactKey: Guid(1b50021ae6dcab9169234257f5cb154d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sci-Fi Vehicles/Vehicle_2/Textures/Cannon_1_E.png using Guid(1b50021ae6dcab9169234257f5cb154d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '18f374c869beee2b2fee88ee86586cd4') in 0.004509 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/Sci-Fi Vehicles/Vehicle_2/Textures/Vehicle_1_S.png
+  artifactKey: Guid(bb3d64f7921a40fe193546840a0ad176) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sci-Fi Vehicles/Vehicle_2/Textures/Vehicle_1_S.png using Guid(bb3d64f7921a40fe193546840a0ad176) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e13feb212656ed6accf0bcdc177b93c') in 0.006119 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Sci-Fi Vehicles/Vehicle_2/Textures/Wheels_2_D.png
+  artifactKey: Guid(031c6f3fbb8c1deb5b496d8c5df67bd5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sci-Fi Vehicles/Vehicle_2/Textures/Wheels_2_D.png using Guid(031c6f3fbb8c1deb5b496d8c5df67bd5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '639e7fd0b2445d2912ffcd38e0340ed5') in 0.006995 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Sci-Fi Vehicles/Vehicle_2/Textures/Vehicle_1_E.png
+  artifactKey: Guid(716c3caf8f25476b99a4191612bf8e24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sci-Fi Vehicles/Vehicle_2/Textures/Vehicle_1_E.png using Guid(716c3caf8f25476b99a4191612bf8e24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d8be623740ad5052565c8cc900f2aa5') in 0.005607 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Sci-Fi Vehicles/Vehicle_2/Textures/Wheels_1_D.png
+  artifactKey: Guid(91876ce6ebbb3d623a2976787db9c423) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sci-Fi Vehicles/Vehicle_2/Textures/Wheels_1_D.png using Guid(91876ce6ebbb3d623a2976787db9c423) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2066433ed4e691b67bdf8924f46c06b4') in 0.006447 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Sci-Fi Vehicles/Vehicle_2/Textures/Wheels_2_AO.png
+  artifactKey: Guid(464be913ce1507c30bcfa70185eafa3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sci-Fi Vehicles/Vehicle_2/Textures/Wheels_2_AO.png using Guid(464be913ce1507c30bcfa70185eafa3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44cd1a000289343fd057456b493ef5c5') in 0.005673 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Sci-Fi Vehicles/Vehicle_2/Textures/Wheels_2_N.png
+  artifactKey: Guid(543798eb7c84db6a394a2124def852f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sci-Fi Vehicles/Vehicle_2/Textures/Wheels_2_N.png using Guid(543798eb7c84db6a394a2124def852f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bad7884bf62227565e8908985c10df4b') in 0.006099 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Sci-Fi Vehicles/Vehicle_2/Textures/Cannon_1_S.png
+  artifactKey: Guid(1fd9a1515d70ce0f0b8a4828194227eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sci-Fi Vehicles/Vehicle_2/Textures/Cannon_1_S.png using Guid(1fd9a1515d70ce0f0b8a4828194227eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4694ce5cdf704bfc4a138e0f241f2be1') in 0.005909 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Sci-Fi Vehicles/Vehicle_2/Textures/Vehicle_1_AO.png
+  artifactKey: Guid(83a3ce7703050e81f8f88824d77fe07b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sci-Fi Vehicles/Vehicle_2/Textures/Vehicle_1_AO.png using Guid(83a3ce7703050e81f8f88824d77fe07b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e7d98ada0a48dfa72e8d138e269a4a3') in 0.007936 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Sci-Fi Vehicles/Vehicle_2/Textures/Wheels_2_H.png
+  artifactKey: Guid(73b271f602362a4dd9309ef64dfbd293) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sci-Fi Vehicles/Vehicle_2/Textures/Wheels_2_H.png using Guid(73b271f602362a4dd9309ef64dfbd293) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a480152f0e9ae0138cf8feb71920d2a8') in 0.006079 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Sci-Fi Vehicles/Vehicle_2/Textures/Wheels_1_AO.png
+  artifactKey: Guid(55d42737e01942c96a7597eebd47bc26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sci-Fi Vehicles/Vehicle_2/Textures/Wheels_1_AO.png using Guid(55d42737e01942c96a7597eebd47bc26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd79df0dd70a095f60c4560d7c1b5b5d9') in 0.005452 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Sci-Fi Vehicles/Vehicle_2/Textures/Wheels_1_N.png
+  artifactKey: Guid(8e5f20312233d277f93c7bbcdfd8f6da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sci-Fi Vehicles/Vehicle_2/Textures/Wheels_1_N.png using Guid(8e5f20312233d277f93c7bbcdfd8f6da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4270eef05a5e9db0e59154e15a7ab17f') in 0.005628 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 25.378578 seconds.
+  path: Assets/Sci-Fi Vehicles/Vehicle_3/Materials/Cannon_1_D.mat
+  artifactKey: Guid(48256107d999c3e20a0acd99de9d1a9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sci-Fi Vehicles/Vehicle_3/Materials/Cannon_1_D.mat using Guid(48256107d999c3e20a0acd99de9d1a9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e66396fd59343af9837371e93314f751') in 0.023516 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Sci-Fi Vehicles/Vehicle_3/Materials/Wheels_1_D.mat
+  artifactKey: Guid(b2ac78af53bf2abd2a26306e2275e52a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sci-Fi Vehicles/Vehicle_3/Materials/Wheels_1_D.mat using Guid(b2ac78af53bf2abd2a26306e2275e52a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '71982fd7fd4f0ff46a9c1f2085e2d31b') in 0.014563 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Sci-Fi Vehicles/Vehicle_3/Materials/Vehicle_1_D.mat
+  artifactKey: Guid(45907d10ac2344274ad4617857d5a4f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sci-Fi Vehicles/Vehicle_3/Materials/Vehicle_1_D.mat using Guid(45907d10ac2344274ad4617857d5a4f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d3549d12ced233d214dc0b92424c671') in 0.018638 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/Sci-Fi Vehicles/Vehicle_3/Materials/Wheels_2_D.mat
+  artifactKey: Guid(effd5281083c3c1ceb59f3052b62cb0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sci-Fi Vehicles/Vehicle_3/Materials/Wheels_2_D.mat using Guid(effd5281083c3c1ceb59f3052b62cb0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8004f3d95e281411145fafbbb3eaffce') in 0.011149 seconds 
+========================================================================
+Received Prepare
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Registering precompiled user dll's ...
+Registered in 0.002402 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /home/alianpro/Music/TowerDefenseCG/Tower Defense Unity Project/Library/PackageCache/com.unity.visualscripting@1.7.6/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory doesn't match image /home/alianpro/Music/TowerDefenseCG/Tower Defense Unity Project/Library/PackageCache/com.unity.visualscripting@1.7.6/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Native extension for LinuxStandalone target not found
+Refreshing native plugins compatible for Editor in 0.46 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.789 seconds
+Domain Reload Profiling:
+	ReloadAssembly (790ms)
+		BeginReloadAssembly (85ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (4ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (27ms)
+		EndReloadAssembly (615ms)
+			LoadAssemblies (44ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (195ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (38ms)
+			SetupLoadedEditorAssemblies (278ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (10ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (49ms)
+				ProcessInitializeOnLoadAttributes (192ms)
+				ProcessInitializeOnLoadMethodAttributes (22ms)
+				AfterProcessingInitializeOnLoad (5ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (4ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3122 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 13 unused Assets / (22.1 KB). Loaded Objects now: 3645.
+Memory consumption went from 106.9 MB to 106.9 MB.
+Total: 3.011457 ms (FindLiveObjects: 0.221181 ms CreateObjectMapping: 0.125699 ms MarkObjects: 2.648004 ms  DeleteObjects: 0.015489 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 44.248722 seconds.
+  path: Assets/Sci-Fi Vehicles/Vehicle_2/Materials/Cannon_1_D.mat
+  artifactKey: Guid(ba29224ca035406a99f6f72c73061983) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sci-Fi Vehicles/Vehicle_2/Materials/Cannon_1_D.mat using Guid(ba29224ca035406a99f6f72c73061983) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1bfc8d65e6374207b68eb123ce63f838') in 0.089181 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Sci-Fi Vehicles/Vehicle_2/Materials/Wheels_2_D.mat
+  artifactKey: Guid(3fc7f8e22ed9844e1a2aade8afb08440) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sci-Fi Vehicles/Vehicle_2/Materials/Wheels_2_D.mat using Guid(3fc7f8e22ed9844e1a2aade8afb08440) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37e32e7cdc6493a57cd5c317658f2169') in 0.012394 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Sci-Fi Vehicles/Vehicle_2/Materials/Wheels_1_D.mat
+  artifactKey: Guid(9e62df5758443eabd81670ee61b8de7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sci-Fi Vehicles/Vehicle_2/Materials/Wheels_1_D.mat using Guid(9e62df5758443eabd81670ee61b8de7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b115a1949a34237ae7be977619fb818') in 0.011581 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Sci-Fi Vehicles/Vehicle_2/Materials/Vehicle_1_D.mat
+  artifactKey: Guid(55565bfe0e0a9c82f89b91f07e47e9b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sci-Fi Vehicles/Vehicle_2/Materials/Vehicle_1_D.mat using Guid(55565bfe0e0a9c82f89b91f07e47e9b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '49d6a4a7e55e66954474d90a881150b4') in 0.016638 seconds 
+========================================================================
+Received Prepare
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Registering precompiled user dll's ...
+Registered in 0.002592 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /home/alianpro/Music/TowerDefenseCG/Tower Defense Unity Project/Library/PackageCache/com.unity.visualscripting@1.7.6/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory doesn't match image /home/alianpro/Music/TowerDefenseCG/Tower Defense Unity Project/Library/PackageCache/com.unity.visualscripting@1.7.6/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Native extension for LinuxStandalone target not found
+Refreshing native plugins compatible for Editor in 0.47 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.803 seconds
+Domain Reload Profiling:
+	ReloadAssembly (804ms)
+		BeginReloadAssembly (84ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (4ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (26ms)
+		EndReloadAssembly (629ms)
+			LoadAssemblies (41ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (201ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (45ms)
+			SetupLoadedEditorAssemblies (282ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (10ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (52ms)
+				ProcessInitializeOnLoadAttributes (193ms)
+				ProcessInitializeOnLoadMethodAttributes (22ms)
+				AfterProcessingInitializeOnLoad (5ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (4ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3122 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 13 unused Assets / (22.0 KB). Loaded Objects now: 3648.
+Memory consumption went from 107.0 MB to 107.0 MB.
+Total: 3.187307 ms (FindLiveObjects: 0.232555 ms CreateObjectMapping: 0.205753 ms MarkObjects: 2.699382 ms  DeleteObjects: 0.048342 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 30.859887 seconds.
+  path: Assets/Level02.unity
+  artifactKey: Guid(84d2bdad8398bb04980a93af282cfe06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Level02.unity using Guid(84d2bdad8398bb04980a93af282cfe06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'accdc6bd8c5ecc3aa8b3dc1f04dd58f4') in 0.003959 seconds 
+========================================================================
+Received Prepare
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Registering precompiled user dll's ...
+Registered in 0.002587 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /home/alianpro/Music/TowerDefenseCG/Tower Defense Unity Project/Library/PackageCache/com.unity.visualscripting@1.7.6/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory doesn't match image /home/alianpro/Music/TowerDefenseCG/Tower Defense Unity Project/Library/PackageCache/com.unity.visualscripting@1.7.6/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Native extension for LinuxStandalone target not found
+Refreshing native plugins compatible for Editor in 0.46 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.785 seconds
+Domain Reload Profiling:
+	ReloadAssembly (785ms)
+		BeginReloadAssembly (85ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (6ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (26ms)
+		EndReloadAssembly (609ms)
+			LoadAssemblies (40ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (195ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (38ms)
+			SetupLoadedEditorAssemblies (278ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (10ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (48ms)
+				ProcessInitializeOnLoadAttributes (192ms)
+				ProcessInitializeOnLoadMethodAttributes (23ms)
+				AfterProcessingInitializeOnLoad (4ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (4ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3122 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 13 unused Assets / (22.0 KB). Loaded Objects now: 3651.
+Memory consumption went from 107.0 MB to 107.0 MB.
+Total: 3.031351 ms (FindLiveObjects: 0.245159 ms CreateObjectMapping: 0.155537 ms MarkObjects: 2.612082 ms  DeleteObjects: 0.017200 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Registering precompiled user dll's ...
+Registered in 0.002351 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /home/alianpro/Music/TowerDefenseCG/Tower Defense Unity Project/Library/PackageCache/com.unity.visualscripting@1.7.6/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory doesn't match image /home/alianpro/Music/TowerDefenseCG/Tower Defense Unity Project/Library/PackageCache/com.unity.visualscripting@1.7.6/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Native extension for LinuxStandalone target not found
+Refreshing native plugins compatible for Editor in 0.46 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.788 seconds
+Domain Reload Profiling:
+	ReloadAssembly (788ms)
+		BeginReloadAssembly (86ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (6ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (26ms)
+		EndReloadAssembly (611ms)
+			LoadAssemblies (41ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (190ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (42ms)
+			SetupLoadedEditorAssemblies (274ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (11ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (46ms)
+				ProcessInitializeOnLoadAttributes (190ms)
+				ProcessInitializeOnLoadMethodAttributes (22ms)
+				AfterProcessingInitializeOnLoad (4ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (4ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.18 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3122 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 13 unused Assets / (22.0 KB). Loaded Objects now: 3654.
+Memory consumption went from 107.0 MB to 107.0 MB.
+Total: 2.928988 ms (FindLiveObjects: 0.212360 ms CreateObjectMapping: 0.166764 ms MarkObjects: 2.533184 ms  DeleteObjects: 0.015336 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 150.974255 seconds.
+  path: Assets/Scripts/MoneyUI.cs
+  artifactKey: Guid(4bedba7083dee304aa25d389898e9dcb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/MoneyUI.cs using Guid(4bedba7083dee304aa25d389898e9dcb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab785f72b3076393b98786e92ddb420b') in 0.003985 seconds 
+========================================================================
+Received Prepare
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Registering precompiled user dll's ...
+Registered in 0.002579 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /home/alianpro/Music/TowerDefenseCG/Tower Defense Unity Project/Library/PackageCache/com.unity.visualscripting@1.7.6/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory doesn't match image /home/alianpro/Music/TowerDefenseCG/Tower Defense Unity Project/Library/PackageCache/com.unity.visualscripting@1.7.6/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Native extension for LinuxStandalone target not found
+Refreshing native plugins compatible for Editor in 0.60 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.838 seconds
+Domain Reload Profiling:
+	ReloadAssembly (839ms)
+		BeginReloadAssembly (88ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (6ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (26ms)
+		EndReloadAssembly (655ms)
+			LoadAssemblies (43ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (206ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (42ms)
+			SetupLoadedEditorAssemblies (306ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (11ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (50ms)
+				ProcessInitializeOnLoadAttributes (216ms)
+				ProcessInitializeOnLoadMethodAttributes (23ms)
+				AfterProcessingInitializeOnLoad (5ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (4ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.15 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3122 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 13 unused Assets / (22.0 KB). Loaded Objects now: 3657.
+Memory consumption went from 107.0 MB to 107.0 MB.
+Total: 2.959395 ms (FindLiveObjects: 0.277664 ms CreateObjectMapping: 0.215072 ms MarkObjects: 2.449998 ms  DeleteObjects: 0.015436 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Registering precompiled user dll's ...
+Registered in 0.002729 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /home/alianpro/Music/TowerDefenseCG/Tower Defense Unity Project/Library/PackageCache/com.unity.visualscripting@1.7.6/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory doesn't match image /home/alianpro/Music/TowerDefenseCG/Tower Defense Unity Project/Library/PackageCache/com.unity.visualscripting@1.7.6/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Native extension for LinuxStandalone target not found
+Refreshing native plugins compatible for Editor in 0.53 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.834 seconds
+Domain Reload Profiling:
+	ReloadAssembly (834ms)
+		BeginReloadAssembly (87ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (6ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (27ms)
+		EndReloadAssembly (657ms)
+			LoadAssemblies (41ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (208ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (40ms)
+			SetupLoadedEditorAssemblies (306ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (11ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (49ms)
+				ProcessInitializeOnLoadAttributes (216ms)
+				ProcessInitializeOnLoadMethodAttributes (23ms)
+				AfterProcessingInitializeOnLoad (5ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (5ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3122 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 13 unused Assets / (21.9 KB). Loaded Objects now: 3660.
+Memory consumption went from 107.0 MB to 107.0 MB.
+Total: 3.132860 ms (FindLiveObjects: 0.308390 ms CreateObjectMapping: 0.192882 ms MarkObjects: 2.613349 ms  DeleteObjects: 0.016779 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
